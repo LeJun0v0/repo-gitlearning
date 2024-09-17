@@ -2,9 +2,8 @@
 
 Content here.
 
-## Subheader
+## Subheader1
 
 Now I'm watching a  tutorial video to learn how to use Git/Github.
 I made some changes!
-SOMETHING
-new
+## Subheader2
