@@ -19,4 +19,10 @@ _italics_
 x<sup>114514</sup>  
 **H<sub>2</sub>O**  
 Code below :  
-`git add .`
+`git add .`  
+Muiltple lines of code :
+```
+git add .
+git commit -m "new"
+git push
+```
