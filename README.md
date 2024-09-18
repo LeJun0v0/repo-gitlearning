@@ -6,5 +6,12 @@ Content here.
 
 Now I'm watching a  tutorial video to learn how to use Git/Github.
 I made some changes!
+
+This is another line.  
+**bold text**  
+__another one__  
+***italics***  
+_italics_  
+**~~crossed off~~**  
+<mark>**HIGHLIGHT**</mark>
 ## Subheader2
-I want to write more in this file!
