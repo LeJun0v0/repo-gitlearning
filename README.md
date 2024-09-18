@@ -26,3 +26,7 @@ git add .
 git commit -m "new"
 git push
 ```
+
+```java
+System.out.println("Text here");
+```
