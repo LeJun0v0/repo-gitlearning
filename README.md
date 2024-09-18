@@ -33,4 +33,21 @@ System.out.println("Text here");
 
 [Link here](https://www.bilibili.com)
 
-![Photo](https://imgm.gmw.cn/attachement/jpg/site215/20240918/145132122448574701.jpg)
+![Photo]()
+---
+___
+___
+***
+***
+>e
+>>e
+>>>e
+
++ item 1
+    + item2
+        + item3
+
+Table here :  
+|column1|column2|
+|-------|-------|
+|1|2|
